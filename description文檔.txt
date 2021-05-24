@@ -1,0 +1,22 @@
+component:
+1.rigidbody2D:be used to control some Physical variables，
+like
+
+2.box colider2D:be used to display physical collision or
+no physical collision
+
+3.music:add Audio Source Component and
+Audio Listener Component to other object.
+
+4.UI:use unity funtion UI to make.
+
+
+public value:
+speed:Its move speed(x axis).
+rigid2D:to control rigidbody2D value.
+hp(UI):its health point,
+use sprite renderer's sorting lay to make.
+jump:value of jump strength
+damage:attack value
+position:charactor position
+distance:monster or boss distance from a charactor.
